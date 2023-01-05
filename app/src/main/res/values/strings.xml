@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nest Angola Map</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiaGVuZGFwYWltIiwiYSI6ImNsY2IxZXVzcDBrbWYzcm93ZTc0NnR4a28ifQ.6C_di0-HRhNGPCFkkezt9A</string>
+    <string name="ir">Ir</string>
+    <string name="selecione_uma_paragerem">Selecione Uma Paragerem...</string>
+    <string name="btnindicar">Indicar</string>
+</resources>
